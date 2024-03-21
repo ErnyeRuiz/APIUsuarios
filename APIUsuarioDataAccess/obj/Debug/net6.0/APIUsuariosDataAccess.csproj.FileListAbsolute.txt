@@ -1,0 +1,14 @@
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\bin\Debug\net6.0\APIUsuariosDataAccess.deps.json
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\bin\Debug\net6.0\APIUsuariosDataAccess.runtimeconfig.json
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\bin\Debug\net6.0\APIUsuariosDataAccess.dll
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\bin\Debug\net6.0\APIUsuariosDataAccess.pdb
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.csproj.AssemblyReference.cache
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.AssemblyInfoInputs.cache
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.AssemblyInfo.cs
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.dll
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\refint\APIUsuariosDataAccess.dll
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.pdb
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\APIUsuariosDataAccess.genruntimeconfig.cache
+C:\Users\Ernye\OneDrive\Escritorio\Proyecto en Angular\APIUsuarios\APIUsuarioDataAccess\obj\Debug\net6.0\ref\APIUsuariosDataAccess.dll
